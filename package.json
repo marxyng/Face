@@ -1,0 +1,15 @@
+{
+  "name": "facerecognition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marco",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.10.1",
+    "face-api.js": "^0.22.2"
+  }
+}
